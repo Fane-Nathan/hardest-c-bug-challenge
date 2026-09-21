@@ -1,0 +1,8 @@
+build/
+build-asan/
+hardest_c_bug
+hardest_c_bug-asan
+*.exe
+*.o
+*.obj
+*.pdb
